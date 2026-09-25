@@ -90,7 +90,7 @@ function Index() {
 
         <div className="workshop-rise mt-9 inline-flex items-center gap-3 rounded-lg border border-primary/15 bg-secondary px-5 py-3 [animation-delay:100ms]">
           <CalendarDays className="size-5 text-primary" aria-hidden="true" />
-          <span className="font-mono text-sm font-medium text-secondary-foreground">20:00 — Chủ nhật, 21/09</span>
+          <span className="font-mono text-sm font-medium text-secondary-foreground">20:00 — Chủ nhật, 27/09</span>
         </div>
 
         <div className="workshop-rise group relative mt-10 [animation-delay:200ms]">
